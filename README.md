@@ -183,14 +183,6 @@ It includes:
 * Zone-based person counts
 * Wait time for each tracked person
 * Visualized cashier and queue areas
-
----
-
-## 🤝 Acknowledgments
-
-* **March Networks** for providing the sample video.
-* **Ultralytics** for YOLOv8 model and tracking framework.
-
 ---
 
 ## 📝 License
