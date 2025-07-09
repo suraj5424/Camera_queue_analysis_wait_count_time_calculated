@@ -185,6 +185,7 @@ It includes:
 * Visualized cashier and queue areas
 ---
 
-## 📝 License
 
-This project is for educational and demonstration purposes. Always credit original content owners and comply with video usage rights.
+## 📄 License
+
+This project is licensed under the terms of the [LICENSE.txt](LICENSE.txt). See the file for details.
